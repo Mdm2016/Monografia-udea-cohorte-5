@@ -11,6 +11,8 @@ El objetivo principal de este proyecto de análisis es desarrollar un modelo de 
 
 El resultado de este análisis y la implementación exitosa del modelo de aprendizaje supervisado permitirán a las tiendas minoristas en Estambul mejorar su toma de decisiones estratégicas y optimizar sus operaciones. Al comprender mejor las preferencias de los clientes y las categorías de compras, las tiendas podrán adaptar su inventario, estrategias de marketing y promociones para satisfacer las necesidades de los consumidores de manera más efectiva, aumentando así su rentabilidad y competitividad en el mercado.
 
+el desarrollo de este análisis se encuentra en la carpeta python/noteboooks y el informe en pdf, se encuentra en la carpeta entregable.
+
 
 # Dataset
 
