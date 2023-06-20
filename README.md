@@ -9,7 +9,7 @@ Este conjunto de datos es altamente relevante para la realización de análisis 
 
 El objetivo principal de este proyecto de análisis es desarrollar un modelo de aprendizaje supervisado que pueda predecir las categorías de compras en el mercado minorista. Al aprovechar la gran cantidad de datos recopilados, se puede entrenar un modelo que pueda identificar patrones ocultos y relaciones entre las variables, y utilizar esta información para realizar predicciones precisas.
 
-El resultado de este análisis y la implementación exitosa del modelo de aprendizaje supervisado permitirán a las tiendas minoristas en Estambul mejorar su toma de decisiones estratégicas y optimizar sus operaciones. Al comprender mejor las preferencias de los clientes y las categorías de compras, las tiendas podrán adaptar su inventario, estrategias de marketing y promociones para satisfacer las necesidades de los consumidores de manera más efectiva, aumentando así su rentabilidad y competitividad en el mercado. En última instancia, este análisis contribuirá al crecimiento y desarrollo del sector minorista en Estambul.
+El resultado de este análisis y la implementación exitosa del modelo de aprendizaje supervisado permitirán a las tiendas minoristas en Estambul mejorar su toma de decisiones estratégicas y optimizar sus operaciones. Al comprender mejor las preferencias de los clientes y las categorías de compras, las tiendas podrán adaptar su inventario, estrategias de marketing y promociones para satisfacer las necesidades de los consumidores de manera más efectiva, aumentando así su rentabilidad y competitividad en el mercado.
 
 
 # Dataset
