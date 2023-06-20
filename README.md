@@ -3,7 +3,7 @@ Repositorio con el trabajo de monografía de la especialización en analítica y
 
 # Descripción del problema
 
-El análisis de datos en el campo de la analítica y ciencia de datos desempeña un papel crucial en la comprensión de los patrones y tendencias dentro de un conjunto de datos. En este caso particular, se tiene acceso a un conjunto de datos de ventas minoristas que abarca un período de tiempo significativo, desde 2021 hasta 2023, y proporciona información valiosa sobre las transacciones de compras realizadas en 10 tiendas diferentes en Estambul.
+El análisis de datos en el campo de la analítica y ciencia de datos desempeña un papel crucial en la comprensión de los patrones y tendencias dentro de dta set. En este caso particular, se tiene acceso a un conjunto de datos de ventas minoristas que abarca un período de tiempo significativo, desde 2021 hasta 2023, y proporciona información valiosa sobre las transacciones de compras realizadas en 10 tiendas diferentes en Estambul.
 
 Este conjunto de datos es altamente relevante para la realización de análisis en el mercado minorista, ya que contiene una amplia variedad de variables clave, como las identificaciones de los clientes, edad, género, métodos de pago, categorías de productos, cantidad, precio, fechas de pedidos y nombres de las tiendas. Estas características brindan una visión detallada y completa de las transacciones realizadas en el mercado minorista en Estambul.
 
