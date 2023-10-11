@@ -18,17 +18,6 @@ el desarrollo de este análisis se encuentra en la carpeta python/noteboooks y e
 
 El conjunto de datos "Customer Shopping Dataset" disponible en Kaggle es un conjunto de datos de ventas minoristas que contiene información sobre las transacciones de compras realizadas en 10 tiendas minoristas en Turquía desde el 2021 hasta el 2023.
 
-El conjunto de datos se presenta en un archivo CSV que contiene 99,457 registros y 10 columnas. Las columnas en el conjunto de datos son:
-
-* "Date": La fecha en que se realizó la compra
-* "Time": La hora a la que se realizó la compra
-* "Total_amount": El importe total de la compra
-* "Total_quantity": El número total de artículos comprados
-* "Category": La categoría de los productos comprados
-* "Card_type": El tipo de tarjeta de fidelización utilizada en la transacción
-* "Payment_type": El método de pago utilizado en la transacción
-* "Hour": La hora a la que se realizó la compra, separada de la columna "Time"
-
 url: https://www.kaggle.com/datasets/mehmettahiraslan/customer-shopping-dataset
 
 
