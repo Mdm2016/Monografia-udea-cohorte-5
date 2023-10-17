@@ -18,9 +18,9 @@ El resultado de este análisis y la implementación exitosa del modelo de aprend
 el desarrollo de este análisis se encuentra en la carpeta python/noteboooks y el informe en pdf, se encuentra en la carpeta entregable.
 
 ## Estructura de Notebooks
-### Preprocesamiento
-
-### Entrenamiento y validación del modelo
+Los notebooks están organizados en el siguiente orden:
+1. [**Obtención de datos**](https://github.com/Mdm2016/Monografia-udea-cohorte-5/blob/d1fd8447b6153a4e93bfd389f2dfcd93843fb9e7/entregable_ii/1.obtener_datos.ipynb): Este notebook tiene el paso a paso para configurar la API de Kaggle y descargar la data utilizada en el proyecto.
+2. 
 
 ## Dataset
 
