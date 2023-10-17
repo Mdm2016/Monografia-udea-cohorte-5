@@ -19,12 +19,12 @@ el desarrollo de este análisis se encuentra en la carpeta python/noteboooks y e
 
 ## Estructura de Notebooks
 Los notebooks están organizados en el siguiente orden:
-1. [**Obtención de datos**](https://github.com/Mdm2016/Monografia-udea-cohorte-5/blob/d1fd8447b6153a4e93bfd389f2dfcd93843fb9e7/entregable_ii/1.obtener_datos.ipynb): Este notebook tiene el paso a paso para configurar la API de Kaggle y descargar la data utilizada en el proyecto.
-2. 
+1. **[Obtención de datos](https://github.com/Mdm2016/Monografia-udea-cohorte-5/blob/d1fd8447b6153a4e93bfd389f2dfcd93843fb9e7/entregable_ii/1.obtener_datos.ipynb)**: Este notebook tiene el paso a paso para configurar la API de Kaggle y descargar la data utilizada en el proyecto.
+2. **[Analitica descriptiva](https://github.com/Mdm2016/Monografia-udea-cohorte-5/blob/d1fd8447b6153a4e93bfd389f2dfcd93843fb9e7/entregable_ii/2.analitica_descriptiva.ipynb)**:
 
 ## Dataset
 
-El conjunto de datos "Customer Shopping Dataset" disponible en Kaggle es un conjunto de datos de ventas minoristas que contiene información sobre las transacciones de compras realizadas en 10 tiendas minoristas en Turquía desde el 2021 hasta el 2023 [url](https://www.kaggle.com/datasets/mehmettahiraslan/customer-shopping-dataset).
+El conjunto de datos "Customer Shopping Dataset" disponible en Kaggle es un conjunto de datos de ventas minoristas que contiene información sobre las transacciones de compras realizadas en 10 tiendas minoristas en Turquía desde el 2021 hasta el 2023 ([url](https://www.kaggle.com/datasets/mehmettahiraslan/customer-shopping-dataset)).
 
 
 
