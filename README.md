@@ -1,7 +1,11 @@
-# Monografia udea cohorte5
-Repositorio con el trabajo de monografía de la especialización en analítica y ciencia de datos de la Universidad de Antioquia.
+# Monografía presentada para optar al título de Especialista en Analítica y Ciencia de Datos
 
-# Descripción del problema
+Este repositorio contiene los notebooks generados en el trabajo de monografía titulada "Predicción de categorías de productos en el sector minorista utilizando técnicas de aprendizaje supervisado ", presentada por Maria del Mar Ipia Guzmán como requisito para obtener el título de Especialista en Analítica y Ciencia de Datos. El trabajo fue desarrollado bajo la asesoría de la Ph.D. Maria Bernarda Salazar Sánchez.
+
+## Resumen
+El objetivo de este trabajo es desarrollar un modelo para predecir las categorías de productos en el sector minorista utilizando técnicas de aprendizaje supervisado como herramienta útil para la gestión de inventario y la personalización de recomendaciones en tiendas minoristas. Los notebooks contenidos en este repositorio trabajan con los datos de acceso abierto de Kaggle [Customer Shopping Dataset - Retail Sales Data](https://www.kaggle.com/datasets/mehmettahiraslan/customer-shopping-dataset).
+
+## Descripción del problema
 
 El análisis de datos en el campo de la analítica y ciencia de datos desempeña un papel crucial en la comprensión de los patrones y tendencias dentro de dta set. En este caso particular, se tiene acceso a un conjunto de datos de ventas minoristas que abarca un período de tiempo significativo, desde 2021 hasta 2023, y proporciona información valiosa sobre las transacciones de compras realizadas en 10 tiendas diferentes en Estambul.
 
@@ -13,12 +17,14 @@ El resultado de este análisis y la implementación exitosa del modelo de aprend
 
 el desarrollo de este análisis se encuentra en la carpeta python/noteboooks y el informe en pdf, se encuentra en la carpeta entregable.
 
+## Estructura de Notebooks
+### Preprocesamiento
 
-# Dataset
+### Entrenamiento y validación del modelo
 
-El conjunto de datos "Customer Shopping Dataset" disponible en Kaggle es un conjunto de datos de ventas minoristas que contiene información sobre las transacciones de compras realizadas en 10 tiendas minoristas en Turquía desde el 2021 hasta el 2023.
+## Dataset
 
-url: https://www.kaggle.com/datasets/mehmettahiraslan/customer-shopping-dataset
+El conjunto de datos "Customer Shopping Dataset" disponible en Kaggle es un conjunto de datos de ventas minoristas que contiene información sobre las transacciones de compras realizadas en 10 tiendas minoristas en Turquía desde el 2021 hasta el 2023 [url](https://www.kaggle.com/datasets/mehmettahiraslan/customer-shopping-dataset).
 
 
 
