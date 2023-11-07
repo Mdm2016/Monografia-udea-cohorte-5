@@ -6,7 +6,6 @@ from sklearn.preprocessing import MinMaxScaler
 
 from demo.metadata.path import Path
 from demo.metadata.columnas import Columns
-from demo.metadata.columnas import Options
 
 
 def predecir(
