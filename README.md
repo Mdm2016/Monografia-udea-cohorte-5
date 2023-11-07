@@ -23,3 +23,10 @@ El conjunto de datos "Customer Shopping Dataset" disponible en Kaggle es un conj
 
 
 
+## Despliegue de la aplicación
+La aplicación del proyecto se ejecuta sobre 'gradio', en la raiz del proyecto
+en el archivo `demo.py`, el cual permite ejectuar una apliación donde se puede
+simular datos de ventas y los modelos realizados en el trabajo dan su respectiva
+clasificación.
+
+![Nombre de la imagen](output/demo.png)
