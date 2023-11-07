@@ -1,6 +1,6 @@
 from joblib import load
 import pandas as pd
-import os
+import pickle
 
 from sklearn.preprocessing import MinMaxScaler
 
@@ -26,12 +26,12 @@ def predecir(
          automático.
 
     """
-    bernulli = load(Path.bernulli)
-    # decision_tree = load(Path.decision_tree)
-    gaussian = load(Path.gaussian)
-    multinomial = load(Path.multinomial)
-    # neural_network = load(Path.neural_network)
-    # random_forest_classifier = load(Path.random_forest_classifier)
+    bernulli = pickle.load(open(Path.bernulli, 'rb'))
+    decision_tree = pickle.load(open(Path.decision_tree, 'rb'))
+    gaussian = pickle.load(open(Path.gaussian, 'rb'))
+    multinomial = pickle.load(open(Path.multinomial, 'rb'))
+    #neural_network = pickle.load(open(Path.neural_network, 'rb'))
+    random_forest_classifier = pickle.load(open(Path.random_forest_classifier, 'rb'))
 
     datos = pd.Series(0, index=Columns.columnas_modelo)
 
@@ -51,15 +51,16 @@ def predecir(
     x_scale = pd.DataFrame(x_scale, columns=datos_df.columns)
 
     prediccion_bernulli = bernulli.predict(datos_df)[0]
-    # prediccion_decision_tree = decision_tree.predict(datos_df)[0]
+    prediccion_decision_tree = decision_tree.predict(datos_df)[0]
     prediccion_gaussian = gaussian.predict(datos_df)[0]
     prediccion_multinomial = multinomial.predict(datos_df)[0]
     # prediccion_neural_network = neural_network.predict(datos_df)
-    # prediccion_random_forest = random_forest_classifier.predict(datos_df)[0]
+    prediccion_random_forest = random_forest_classifier.predict(datos_df)[0]
 
     prediccion = f'Predicción Bernulli: {prediccion_bernulli}\n'
     prediccion += f'Predicción Gaussian: {prediccion_gaussian}\n'
     prediccion += f'Predicción Multinomial: {prediccion_multinomial}\n'
-    # prediccion += f'Predicción Random Forest: {prediccion_random_forest}\n'
+    prediccion += f'Predicción Random Forest: {prediccion_random_forest}\n'
+    prediccion += f'Predicción Decision Tree: {prediccion_decision_tree}\n'
 
     return prediccion

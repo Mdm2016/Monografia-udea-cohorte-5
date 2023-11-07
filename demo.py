@@ -1,14 +1,8 @@
-from joblib import load
-import pandas as pd
-import os
 import gradio as gr
 
 from demo.utils.predicciones import predecir
 from demo.metadata.columnas import Options
 
-# if __name__ == '__main__':
-# result = predecir(50, 100000, 'Femenino', 'Credit Card', 'Emaar Square Mall')
-# print(result)
 
 
 def main():
