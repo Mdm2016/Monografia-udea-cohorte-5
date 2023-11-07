@@ -13,7 +13,7 @@ El resultado de este análisis y la implementación exitosa del modelo de aprend
 ## Estructura de Notebooks
 Los notebooks están organizados en el siguiente orden:
 1. **[Obtención de datos](https://github.com/Mdm2016/Monografia-udea-cohorte-5/blob/d1fd8447b6153a4e93bfd389f2dfcd93843fb9e7/entregable_ii/1.obtener_datos.ipynb)**: Este notebook tiene el paso a paso para configurar la API de Kaggle y descargar la data utilizada en el proyecto.
-2. **[Analitica descriptiva](https://github.com/Mdm2016/Monografia-udea-cohorte-5/blob/d1fd8447b6153a4e93bfd389f2dfcd93843fb9e7/entregable_ii/2.analitica_descriptiva.ipynb)**:
+2. **[Analitica descriptiva](https://github.com/Mdm2016/Monografia-udea-cohorte-5/blob/d1fd8447b6153a4e93bfd389f2dfcd93843fb9e7/entregable_ii/2.analitica_descriptiva.ipynb)**: En este notebook realizamos una revisión de los datos
 3. **[Preprocesamiento](https://github.com/Mdm2016/Monografia-udea-cohorte-5/blob/d1fd8447b6153a4e93bfd389f2dfcd93843fb9e7/entregable_ii/3.preprocesamiento.ipynb)**: En este notebook se realiza la eliminación de atípicos, creación de nuevas variables y normalización de la información. El archivo `customers_model.csv` alojado es la data resultante luego de finalizado el preprocesamiento y está en la carpeta entregable ii/data del repositorio.
 5. **[Etapa de modelado](https://github.com/Mdm2016/Monografia-udea-cohorte-5/blob/d1fd8447b6153a4e93bfd389f2dfcd93843fb9e7/entregable_ii/4.modelos.ipynb)**:
 
